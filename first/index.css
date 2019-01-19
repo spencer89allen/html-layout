@@ -1,0 +1,38 @@
+header {
+    background-color: #808B96;
+    width: 100vw;
+    height: 20vh;
+}
+section {
+    display: flex;
+    justify-content: center;
+
+}
+.left {
+    background-color: #CCD1D1;
+    width: 15vw;
+    height: 80vh;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.middle {
+    width: 70vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.right {
+    background-color: #CCD1D1;
+    width: 15vw;
+    height: 80vh;
+    float: right;
+    display: flex;
+    justify-content: center;
+}
+footer {
+    background-color: black;
+    width: 70vw;
+    height: 15vh;
+}
